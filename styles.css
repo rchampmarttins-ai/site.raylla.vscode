@@ -1,0 +1,22 @@
+body {
+    background-color: #62acb6;  /* Azul claro */
+}
+header {
+    background-color: #9d89de;  /* lilas */
+}
+.btn {
+    background-color: #007bff;  /* Azul */
+    border-radius: 10px;  /* Mais arredondado */
+}
+.btn:hover {
+    background-color: #0056b3;  /* Azul escuro no hover */
+}
+body {
+    font-family: 'Roboto', sans-serif;  /* Baixe do Google Fonts se quiser */
+}
+.product {
+    width: calc(50% - 1rem);  /* 2 produtos por linha em vez de 3 */
+}
+.product {
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
